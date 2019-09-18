@@ -1,0 +1,11 @@
+C:\Users\Kawaiivee PC\Desktop\VisualStudioProjects\ConsoleAppProjects\TestProject\TestProject\bin\Debug\netcoreapp2.2\TestProject.deps.json
+C:\Users\Kawaiivee PC\Desktop\VisualStudioProjects\ConsoleAppProjects\TestProject\TestProject\bin\Debug\netcoreapp2.2\TestProject.runtimeconfig.json
+C:\Users\Kawaiivee PC\Desktop\VisualStudioProjects\ConsoleAppProjects\TestProject\TestProject\bin\Debug\netcoreapp2.2\TestProject.runtimeconfig.dev.json
+C:\Users\Kawaiivee PC\Desktop\VisualStudioProjects\ConsoleAppProjects\TestProject\TestProject\bin\Debug\netcoreapp2.2\TestProject.dll
+C:\Users\Kawaiivee PC\Desktop\VisualStudioProjects\ConsoleAppProjects\TestProject\TestProject\bin\Debug\netcoreapp2.2\TestProject.pdb
+C:\Users\Kawaiivee PC\Desktop\VisualStudioProjects\ConsoleAppProjects\TestProject\TestProject\obj\Debug\netcoreapp2.2\TestProject.csprojAssemblyReference.cache
+C:\Users\Kawaiivee PC\Desktop\VisualStudioProjects\ConsoleAppProjects\TestProject\TestProject\obj\Debug\netcoreapp2.2\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Kawaiivee PC\Desktop\VisualStudioProjects\ConsoleAppProjects\TestProject\TestProject\obj\Debug\netcoreapp2.2\TestProject.AssemblyInfoInputs.cache
+C:\Users\Kawaiivee PC\Desktop\VisualStudioProjects\ConsoleAppProjects\TestProject\TestProject\obj\Debug\netcoreapp2.2\TestProject.AssemblyInfo.cs
+C:\Users\Kawaiivee PC\Desktop\VisualStudioProjects\ConsoleAppProjects\TestProject\TestProject\obj\Debug\netcoreapp2.2\TestProject.dll
+C:\Users\Kawaiivee PC\Desktop\VisualStudioProjects\ConsoleAppProjects\TestProject\TestProject\obj\Debug\netcoreapp2.2\TestProject.pdb

@@ -1,0 +1,13 @@
+C:\Users\Kawaiivee PC\Desktop\BookLister\BookLister\BookLister\obj\Debug\netstandard2.0\BookLister.csprojAssemblyReference.cache
+C:\Users\Kawaiivee PC\Desktop\BookLister\BookLister\BookLister\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kawaiivee PC\Desktop\BookLister\BookLister\BookLister\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Kawaiivee PC\Desktop\BookLister\BookLister\BookLister\obj\Debug\netstandard2.0\NewBookPage.xaml.g.cs
+C:\Users\Kawaiivee PC\Desktop\BookLister\BookLister\BookLister\obj\Debug\netstandard2.0\BookLister.csproj.CoreCompileInputs.cache
+C:\Users\Kawaiivee PC\Desktop\BookLister\BookLister\BookLister\obj\Debug\netstandard2.0\BookLister.AssemblyInfoInputs.cache
+C:\Users\Kawaiivee PC\Desktop\BookLister\BookLister\BookLister\obj\Debug\netstandard2.0\BookLister.AssemblyInfo.cs
+C:\Users\Kawaiivee PC\Desktop\BookLister\BookLister\BookLister\bin\Debug\netstandard2.0\BookLister.deps.json
+C:\Users\Kawaiivee PC\Desktop\BookLister\BookLister\BookLister\bin\Debug\netstandard2.0\BookLister.dll
+C:\Users\Kawaiivee PC\Desktop\BookLister\BookLister\BookLister\bin\Debug\netstandard2.0\BookLister.pdb
+C:\Users\Kawaiivee PC\Desktop\BookLister\BookLister\BookLister\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kawaiivee PC\Desktop\BookLister\BookLister\BookLister\obj\Debug\netstandard2.0\BookLister.dll
+C:\Users\Kawaiivee PC\Desktop\BookLister\BookLister\BookLister\obj\Debug\netstandard2.0\BookLister.pdb

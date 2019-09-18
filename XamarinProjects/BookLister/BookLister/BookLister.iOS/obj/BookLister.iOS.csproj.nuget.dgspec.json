@@ -1,0 +1,139 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Kawaiivee PC\\Desktop\\BookLister\\BookLister\\BookLister.iOS\\BookLister.iOS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Kawaiivee PC\\Desktop\\BookLister\\BookLister\\BookLister.iOS\\BookLister.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kawaiivee PC\\Desktop\\BookLister\\BookLister\\BookLister.iOS\\BookLister.iOS.csproj",
+        "projectName": "BookLister.iOS",
+        "projectPath": "C:\\Users\\Kawaiivee PC\\Desktop\\BookLister\\BookLister\\BookLister.iOS\\BookLister.iOS.csproj",
+        "packagesPath": "C:\\Users\\Kawaiivee PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kawaiivee PC\\Desktop\\BookLister\\BookLister\\BookLister.iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kawaiivee PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "C:\\Users\\Kawaiivee PC\\Desktop\\BookLister\\BookLister\\BookLister\\BookLister.csproj": {
+                "projectPath": "C:\\Users\\Kawaiivee PC\\Desktop\\BookLister\\BookLister\\BookLister\\BookLister.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.2.0.778463, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.5.231, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Kawaiivee PC\\Desktop\\BookLister\\BookLister\\BookLister\\BookLister.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kawaiivee PC\\Desktop\\BookLister\\BookLister\\BookLister\\BookLister.csproj",
+        "projectName": "BookLister",
+        "projectPath": "C:\\Users\\Kawaiivee PC\\Desktop\\BookLister\\BookLister\\BookLister\\BookLister.csproj",
+        "packagesPath": "C:\\Users\\Kawaiivee PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kawaiivee PC\\Desktop\\BookLister\\BookLister\\BookLister\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kawaiivee PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.2.0.778463, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.5.231, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
